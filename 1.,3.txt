@@ -1,0 +1,5 @@
+mendefinisikan jari - jari , pi, tinggi , volume
+masukan nilai jari - jari , pi , tinggi
+pangkatkan jari jari dengan dua
+kalikan jari jari , pi , tinggi = volume
+menampilan volume 
