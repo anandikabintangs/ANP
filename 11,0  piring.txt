@@ -1,0 +1,16 @@
+Fungsi untuk menukar dua variabel x dan y:
+define swap(x, y)
+buffer = x
+x = y
+y = buffer
+
+algoritma:
+step 1. definisikan variabel piring 1, piring 2, piring 3
+step 2. masukan piring 1 ke piring 3, piring 1 kosong
+step 3. masukan piring 2 ke piring 1, piring 2 kosong
+step 3. masukan piring 3 ke piring 2, piring 3 kosong
+
+pseudecode
+define swap
+piring 1 -> manggis
+piring 2 -> pisang

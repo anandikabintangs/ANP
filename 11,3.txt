@@ -1,0 +1,17 @@
+Step 1 Mendeklarasikan luas, alas, dan tinggi
+Step 2 Masukan alas = 25, tinggi = 30
+Step 3 Menghitung luas = ½*alas*tinggi
+Step 4 Menampilkan luas
+
+Tentukan algoritma dan pseudocode luas jajar genjang(panjang = 5, tinggi = 3)
+1. deklarasikan panjang dan tinggi (anggap panjang = alas)
+2. alas = 5, tinggi = 3
+3. menghitung luas jajar genjang / alas x tinggi
+4. 15.
+
+pseudocode: 
+var luas, panjang, tinggi
+panjang<-25
+tinggi<-30
+alas*tinggi
+luas

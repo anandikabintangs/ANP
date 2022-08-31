@@ -1,0 +1,12 @@
+fpb
+algoritma:
+step1. jika n=0, return nilai m sebabagai hasil dan stop. jika tidak kembali ke step 2.
+step2. bagi nilai m dan n, masukin nilai ke r
+step3. masukin nilai n ke m dan nilai r ke n. kembali ke step 1
+
+pseudocode:
+while n*0 do
+r- m mod n
+m - n
+n - r
+return m

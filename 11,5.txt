@@ -1,0 +1,12 @@
+mendifinisi diameter, pi, tinggi, volume
+masukan nilai diameter = 5 , tinggi = 4, dan pi 3,14
+volume= 1/3*phi*diameter*tinggi
+menampilkan volume 
+
+pseudecode
+phi<-3,14
+diameter<-5
+tinggi<-4
+volume= 1/3*phi*diameter*tinggi
+volume
+
